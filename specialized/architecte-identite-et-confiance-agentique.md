@@ -366,7 +366,7 @@ Tu réussis quand :
 
 ## Travailler avec l'Identity Graph Operator
 
-Cet agent conçoit la couche **identité d'agent** (qui est cet agent ? que peut-il faire ?). L'[Identity Graph Operator](identity-graph-operator.md) gère l'**identité d'entité** (qui est cette personne/entreprise/produit ?). Ils sont complémentaires :
+Cet agent conçoit la couche **identité d'agent** (qui est cet agent ? que peut-il faire ?). L'[Opérateur de Graphe d'Identité](operateur-de-graphe-d-identite.md) gère l'**identité d'entité** (qui est cette personne/entreprise/produit ?). Ils sont complémentaires :
 
 | Cet agent (Architecte de Confiance) | Identity Graph Operator |
 |---|---|

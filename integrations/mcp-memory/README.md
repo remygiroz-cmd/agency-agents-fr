@@ -66,7 +66,7 @@ Aucune modification de code dans les fichiers d'agent. Aucun appel API à écrir
 
 ## Exemple : enrichir le Backend Architect
 
-Voir [backend-architect-with-memory.md](backend-architect-with-memory.md) pour un exemple complet — l'agent Backend Architect standard auquel a été ajoutée une section Memory Integration.
+Voir [architecte-backend.md](architecte-backend.md) pour un exemple complet — l'agent Backend Architect standard auquel a été ajoutée une section Memory Integration.
 
 ## Exemple : workflow propulsé par la mémoire
 

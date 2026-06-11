@@ -386,9 +386,9 @@ Les contributeurs qui apportent des contributions significatives seront :
 ### Pour les nouveaux contributeurs
 
 - [README.md](README.md) - Vue d'ensemble et catalogue d'agents
-- [Exemple : Frontend Developer](engineering/engineering-frontend-developer.md) - Exemple d'agent bien structuré
-- [Exemple : Reddit Community Builder](marketing/marketing-reddit-community-builder.md) - Excellent exemple de personnalité
-- [Exemple : Whimsy Injector](design/design-whimsy-injector.md) - Exemple de spécialiste créatif
+- [Développeur Frontend](engineering/developpeur-frontend.md) - Exemple d'agent bien structuré
+- [Bâtisseur de Communauté Reddit](marketing/batisseur-de-communaute-reddit.md) - Excellent exemple de personnalité
+- [Injecteur de Fantaisie](design/injecteur-de-fantaisie.md) - Exemple de spécialiste créatif
 
 ### Pour la conception d'agents
 

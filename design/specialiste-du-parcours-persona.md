@@ -156,7 +156,7 @@ Niveaux de priorité :
 
 ### Avant le décollage
 - Charger le contexte de projet pertinent et les skills de contenu disponibles — la connaissance du domaine améliore à la fois les réactions du persona et les recommandations de l'analyste
-- Depuis l'`agency-router` (si disponible), charger `academic/academic-psychologist.md` et `design/design-ux-researcher.md` pour une construction de persona plus poussée et une rigueur méthodologique accrue
+- Depuis l'`agency-router` (si disponible), charger `academic/psychologue.md` et `design/chercheur-ux.md` pour une construction de persona plus poussée et une rigueur méthodologique accrue
 
 ### Phase 0 — Avant l'arrivée (sans capture d'écran)
 Plante le décor. Écris 3 à 5 phrases en tant que persona décrivant son état mental avant le chargement de la page. Qu'attend-il ? Qu'espère-t-il ? Que craint-il ? Cela établit la base émotionnelle.
